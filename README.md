@@ -2,7 +2,7 @@
 
 ##  Overview
 
-This project is an **interactive bioinformatics dashboard** built using **Dash and Plotly** to analyze DNA sequence datasets (e.g., BOLD COI data).
+This project is an **interactive bioinformatics dashboard** built using **Dash and Plotly** to analyze DNA sequence datasets.
 
 It integrates **taxonomy visualization, sequence quality analysis, intra-species variation, and OTU re-clustering** into a single analytical pipeline.
 
